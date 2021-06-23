@@ -2,7 +2,7 @@
 
 This repository
 
-## Course Outline
+## What I have done
 
 * Section 1: Algorithmic Trading Fundamentals
   * What is Algorithmic Trading?
